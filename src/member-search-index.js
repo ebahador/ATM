@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Bank","l":"get_credit(Person)"},{"p":"<Unnamed>","c":"Bank","l":"get_info_Bank()"},{"p":"<Unnamed>","c":"Bank","l":"get_money(Person, float)"},{"p":"<Unnamed>","c":"Bank","l":"show_money(Person)"},{"p":"<Unnamed>","c":"Bank","l":"transfer_money(Person, Person, int, int, float)"}]
